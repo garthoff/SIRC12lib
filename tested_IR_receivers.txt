@@ -1,0 +1,8 @@
+//tested_IR_receivers.txt
+//SIRC-12 protocol library by George Hadjikyriacou
+//Version 0.1 (4/12/2010)
+//License: GPL v3 (http://www.gnu.org/licenses/gpl.html)
+
+Tested IR receiver
+==================
+1. Panasonic PNA4601M
